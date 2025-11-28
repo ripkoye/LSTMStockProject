@@ -1,0 +1,8 @@
+name: lstmstockproject
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.11
+  - numpy
+prefix: /Users/ryandang/miniconda3/envs/lstmstockproject

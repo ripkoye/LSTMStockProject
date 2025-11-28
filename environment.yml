@@ -5,4 +5,8 @@ channels:
 dependencies:
   - python=3.11
   - numpy
+  - ipykernel
+  - matplotlib
+  - pandas
+  - seaborn
 prefix: /Users/ryandang/miniconda3/envs/lstmstockproject

@@ -1,0 +1,1 @@
+#supposed to be an inference script. like simple

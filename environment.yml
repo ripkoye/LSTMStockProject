@@ -10,4 +10,5 @@ dependencies:
   - pandas
   - seaborn
   - openpyxl
+  - yfinance
 prefix: /Users/ryandang/miniconda3/envs/lstmstockproject

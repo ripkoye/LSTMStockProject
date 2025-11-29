@@ -9,4 +9,5 @@ dependencies:
   - matplotlib
   - pandas
   - seaborn
+  - openpyxl
 prefix: /Users/ryandang/miniconda3/envs/lstmstockproject
